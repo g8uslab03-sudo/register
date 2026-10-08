@@ -1,10 +1,14 @@
 {
+  "repo": "",
   "owner": {
     "username": "g8uslab03-sudo",
     "email": "g8.us.lab03@gmail.com"
   },
-  "domain": "g8-l45",
-  "record": {
-    "CNAME": "g8-l45.pages.dev"
-  }
+  "target": {
+    "CNAME": {
+      "name": "g8-145",
+      "value": "g8-145.pages.dev"
+    }
+  },
+  "proxied": false
 }
